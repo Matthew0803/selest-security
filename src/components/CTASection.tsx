@@ -8,7 +8,7 @@ export const CTASection = () => {
           Ready to Secure Your Business?
         </h2>
         <p className="text-xl mb-8 max-w-2xl mx-auto">
-          Don't wait until it's too late. Our team of security experts is ready to help you protect your digital assets.
+          Do not wait until it is too late. Our team of security experts is ready to help you protect your digital assets.
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a
