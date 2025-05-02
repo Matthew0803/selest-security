@@ -2,7 +2,7 @@ import React from 'react';
 
 export const CTASection = () => {
   return (
-    <section className="py-20 px-4 sm:px-6 lg:px-8 bg-blue-600 text-white">
+    <section className="py-20 px-4 sm:px-6 lg:px-8 bg-selest-navy text-selest-white">
       <div className="max-w-7xl mx-auto text-center">
         <h2 className="text-3xl sm:text-4xl font-bold mb-6">
           Ready to Secure Your Business?
