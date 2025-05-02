@@ -13,7 +13,7 @@ module.exports = {
             white: '#FFFFFF',
             gray: '#F5F5F5', // Light Gray
             blue: '#E5F0FF', // Soft Blue
-            gold: '#f4c03e',
+            gold: '#AC8D46', // Gold
           },
         },
       },
